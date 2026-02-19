@@ -1,0 +1,1106 @@
+[
+  {
+    "id": 1,
+    "case": "2006 World Cup Final: Zinedine Zidane intentionally headbutts Marco Materazzi in the chest.",
+    "decision": "Red card issued (Violent Conduct).",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 2,
+    "case": "2010 World Cup Final: Nigel de Jong performs a high 'kung-fu' kick into Xabi Alonso's chest.",
+    "decision": "Yellow card issued.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 3,
+    "case": "1998 World Cup: David Beckham kicks out at Diego Simeone while lying on the ground.",
+    "decision": "Red card issued (Violent Conduct).",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 4,
+    "case": "2024 Premier League: Declan Rice receives a second yellow card for slightly kicking the ball away to delay the restart.",
+    "decision": "Second yellow card and red card issued.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 5,
+    "case": "2013 Champions League: Nani attempts to control the ball and accidentally kicks Arbeloa without seeing him.",
+    "decision": "Red card issued (Serious Foul Play).",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 6,
+    "case": "2002 World Cup: Francesco Totti goes down in the box; Referee Moreno deems it a dive.",
+    "decision": "Second yellow card for simulation and red card issued.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 7,
+    "case": "2012 Premier League: Eden Hazard kicks a ball trapped under a ball boy's body to restart play.",
+    "decision": "Red card issued (Violent Conduct).",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 8,
+    "case": "2021 Euro: Danielson clears the ball but his follow-through catches the opponent's knee.",
+    "decision": "Red card issued after VAR review.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 9,
+    "case": "1986 World Cup: Diego Maradona uses his hand to punch the ball into the net against England.",
+    "decision": "Goal awarded (Hand of God).",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 10,
+    "case": "2010 World Cup: Luis Suarez uses both hands to stop a certain goal on the goal line.",
+    "decision": "Red card (DOGSO-H) and penalty awarded.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 11,
+    "case": "2009 Champions League: Gerard Pique clearly handles the ball in the box; Referee Ovrebo ignores the claim.",
+    "decision": "Play on.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 12,
+    "case": "2009 World Cup Qualifier: Thierry Henry uses his hand twice to control the ball before assisting Gallas.",
+    "decision": "Goal awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 13,
+    "case": "2019 UCL Final: Moussa Sissoko's outstretched arm blocks a cross 25 seconds into the match.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 14,
+    "case": "2022 World Cup Final: Gonzalo Montiel blocks a shot with his outstretched arm while turning.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 15,
+    "case": "2024 Euro: Marc Cucurella's hand blocks a shot while in a natural downward position.",
+    "decision": "Play on.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 16,
+    "case": "2018 World Cup: Marcos Rojo accidentally heads the ball onto his own hand in the box.",
+    "decision": "Play on.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 17,
+    "case": "1966 World Cup Final: Geoff Hurst's shot hits the crossbar and bounces on the goal line; ruled over the line.",
+    "decision": "Goal awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 18,
+    "case": "2010 World Cup: Frank Lampard's shot clearly crosses the line by half a meter but is missed by officials.",
+    "decision": "Play on (Goal not awarded).",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 19,
+    "case": "2023 Premier League: Luis Diaz scores, but VAR incorrectly rules it offside due to a communication breakdown.",
+    "decision": "Goal disallowed.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 20,
+    "case": "2022 World Cup: Lautaro Martinez is ruled offside by a shoulder margin via Semi-Automated Offside Technology.",
+    "decision": "Goal disallowed.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 21,
+    "case": "2017 UCL: Cristiano Ronaldo scores in extra time while clearly in an offside position.",
+    "decision": "Goal awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 22,
+    "case": "2021 La Liga: A defender on the ground keeps the attacker onside with his trailing heel.",
+    "decision": "Goal awarded.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 23,
+    "case": "2010 World Cup: Carlos Tevez is a full yard offside when receiving the ball; assistant referee fails to flag.",
+    "decision": "Goal awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 24,
+    "case": "2024 Premier League: Mac Allister is ruled to have interfered with the keeper while in an offside position.",
+    "decision": "Goal disallowed.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 25,
+    "case": "1982 World Cup: West Germany keeper Schumacher collisions violently with Battiston, causing serious injury.",
+    "decision": "Play on.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 26,
+    "case": "1990 World Cup: Frank Rijkaard spits on Rudi Voller multiple times during an altercation.",
+    "decision": "Both players sent off.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 27,
+    "case": "1994 World Cup: Mauro Tassotti elbows Luis Enrique in the box, breaking his nose; unnoticed by officials.",
+    "decision": "Play on (Later banned via video evidence).",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 28,
+    "case": "1995 Premier League: Eric Cantona launches a 'kung-fu' kick at a fan after being sent off.",
+    "decision": "Red card and long-term suspension.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 29,
+    "case": "1998 Premier League: Paolo Di Canio pushes referee Paul Alcock to the ground in protest.",
+    "decision": "Red card and 11-match ban.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 30,
+    "case": "2001 Premier League: Roy Keane intentionally stamps on Alf-Inge Haaland's knee in a revenge tackle.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 31,
+    "case": "2002 World Cup: Joao Pinto punches referee Angel Sanchez in the stomach after being sent off.",
+    "decision": "Red card and worldwide ban.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 32,
+    "case": "2004 UCL: David Navarro runs onto the pitch and punches Burdisso, breaking his nose during a brawl.",
+    "decision": "Post-match suspension.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 33,
+    "case": "2005 Premier League: Newcastle teammates Lee Bowyer and Kieron Dyer fight each other during the match.",
+    "decision": "Both players sent off.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 34,
+    "case": "2006 World Cup: Khalid Boulahrouz performs a high, dangerous tackle on Cristiano Ronaldo's thigh.",
+    "decision": "Yellow card issued.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 35,
+    "case": "2006 Premier League: Ben Thatcher elbows Pedro Mendes into the advertising boards, causing a seizure.",
+    "decision": "Yellow card issued.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 36,
+    "case": "2008 Premier League: Martin Taylor's tackle on Eduardo results in a horrific leg break.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 37,
+    "case": "2009 La Liga: Pepe kicks Casquero on the ground and then stamps on his back.",
+    "decision": "Red card and 10-match ban.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 38,
+    "case": "2010 World Cup: Valon Behrami catches the opponent's face while shielding the ball.",
+    "decision": "Red card issued.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 39,
+    "case": "2011 UCL: Pepe is sent off for a high challenge on Dani Alves (controversial contact).",
+    "decision": "Red card issued.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 40,
+    "case": "2012 Premier League: Joey Barton kicks Aguero and attempts to headbutt Kompany after being sent off.",
+    "decision": "Red card and 12-match ban.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 41,
+    "case": "2013 Premier League: Fernando Torres scratches Jan Vertonghen's face during a stoppage.",
+    "decision": "No card issued.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 42,
+    "case": "2013 Premier League: Luis Suarez bites Branislav Ivanovic on the arm during a tussle.",
+    "decision": "Play on (Later banned for 10 games).",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 43,
+    "case": "2014 World Cup: Luis Suarez bites Giorgio Chiellini on the shoulder during the match.",
+    "decision": "Play on (Later banned for 4 months).",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 44,
+    "case": "2015 Copa America: Gonzalo Jara pokes Edinson Cavani's backside to provoke a reaction.",
+    "decision": "Cavani sent off (Second yellow).",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 45,
+    "case": "2016 Premier League: Mousa Dembele gouges Cesc Fabregas' eye during a mass confrontation.",
+    "decision": "Play on (Later banned for 6 games).",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 46,
+    "case": "2017 CSL: Oscar twice hits opponents with the ball, triggering a massive brawl.",
+    "decision": "Yellow card (Later banned for 8 games).",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 47,
+    "case": "2018 UCL Final: Sergio Ramos tangles with Mo Salah, causing Salah to dislocate his shoulder.",
+    "decision": "Play on.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 48,
+    "case": "2019 UCL: Thomas Muller's high foot hits Nicolas Tagliafico in the head.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 49,
+    "case": "2020 Bundesliga: Keeper Alexander Nubel wipes out Gacinovic with a flying kick outside the box.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 50,
+    "case": "2021 Copa America: Gabriel Jesus kicks an opponent in the face during an aerial challenge.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 51,
+    "case": "2022 World Cup: Leandro Paredes blasts the ball into the Dutch bench, causing a bench-clearing scuffle.",
+    "decision": "Yellow card issued.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 52,
+    "case": "2023 Premier League: Bruno Guimaraes intentionally elbows Jorginho in the back of the head.",
+    "decision": "Play on.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 53,
+    "case": "2024 Premier League: Cristian Romero kicks out at an opponent's leg inside the box after a block.",
+    "decision": "Penalty and red card issued.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 54,
+    "case": "2010 Premier League: Adebayor stamps on Van Persie's face after provocatively celebrating in front of Arsenal fans.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 55,
+    "case": "2011 UCL: Gennaro Gattuso grabs Spurs coach Joe Jordan by the throat at the touchline.",
+    "decision": "Post-match suspension.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 56,
+    "case": "1991 UCL: AC Milan players walk off the pitch due to a stadium lighting failure.",
+    "decision": "Forfeit loss (3-0 to Marseille).",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 57,
+    "case": "2015 Serie A: Francesco Totti runs 20 yards to kick Mario Balotelli from behind.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 58,
+    "case": "1962 World Cup: Battle of Santiago - multiple players engage in punch-ups; police intervene 4 times.",
+    "decision": "Multiple red cards.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 59,
+    "case": "2004 UCL: Wayne Rooney shoves and hits an opponent during his Champions League debut.",
+    "decision": "Yellow card issued.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 60,
+    "case": "2006 Premier League: Jens Lehmann intentionally stamps on a striker who is tying his laces.",
+    "decision": "No foul given.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 61,
+    "case": "2012 UCL: John Terry knees Alexis Sanchez in the back during an off-the-ball incident.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 62,
+    "case": "2018 World Cup: Cristiano Ronaldo swings an elbow hitting a defender's face; VAR review follows.",
+    "decision": "Yellow card issued.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 63,
+    "case": "2002 World Cup: South Korean players make multiple aggressive tackles on Italian players without calls.",
+    "decision": "Play on.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 64,
+    "case": "2005 Premier League: Van Nistelrooy intentionally stamps on Ashley Cole's shin off-the-ball.",
+    "decision": "Play on (Later banned).",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 65,
+    "case": "2017 La Liga: Marcelo elbows Messi, causing him to bleed from the mouth.",
+    "decision": "Play on.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 66,
+    "case": "2014 Premier League: Kieran Gibbs is sent off instead of Alex Oxlade-Chamberlain for a handball (mistaken identity).",
+    "decision": "Red card for wrong player.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 67,
+    "case": "2010 Scottish PL: Old Firm Derby - players engage in a massive brawl.",
+    "decision": "Multiple red cards.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 68,
+    "case": "2023 Asian Cup: Jordan player mimicks opponent's celebration (eating grass); given second yellow for provocation.",
+    "decision": "Second yellow and red card issued.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 69,
+    "case": "1990 World Cup: Paul Gascoigne receives a yellow card for a reckless tackle, ruling him out of the final.",
+    "decision": "Yellow card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 70,
+    "case": "2011 Premier League: Balotelli stamps on Scott Parker's head while he is on the ground.",
+    "decision": "Play on (Later banned for 4 games).",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 71,
+    "case": "2007 Premier League: Tal Ben Haim and Wayne Rooney go head-to-head in a heated confrontation.",
+    "decision": "Yellow cards for both.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 72,
+    "case": "2022 World Cup: Saudi keeper Al-Owais collides with teammate Al-Shahrani, causing severe facial injury.",
+    "decision": "No foul (Accidental).",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 73,
+    "case": "2019 Premier League: Son Heung-min's challenge leads to Andre Gomes' severe ankle injury.",
+    "decision": "Red card issued (Later rescinded).",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 74,
+    "case": "2003 Confederations Cup: Marc-Vivien Foe collapses on the pitch due to heart failure.",
+    "decision": "Emergency stoppage (Natural cause).",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 75,
+    "case": "1938 World Cup: Zeze Procopio and Riha are sent off for fighting during the match.",
+    "decision": "Both players sent off.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 76,
+    "case": "1954 World Cup: Battle of Berne - Nilton Santos and Bozsik engage in a fist fight.",
+    "decision": "Both players sent off.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 77,
+    "case": "1962 World Cup: Mario David kicks an opponent in the head; police escort player off.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 78,
+    "case": "1962 World Cup: Leonel Sanchez punches an Italian defender, breaking his nose; unpunished by referee.",
+    "decision": "Play on.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 79,
+    "case": "1974 World Cup: Luis Pereira performs a malicious 'scissor' tackle on Johan Neeskens.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 80,
+    "case": "1986 World Cup: Jose Batista is sent off in 56 seconds for a brutal tackle on Gordon Strachan.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 81,
+    "case": "1990 World Cup: Benjamin Massing executes a violent 'chopping' tackle on Maradona.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 82,
+    "case": "1994 World Cup: Leonardo elbows Ramos in the head, causing a skull fracture.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 83,
+    "case": "1998 World Cup: Ariel Ortega headbutts keeper Van der Sar after a penalty claim.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 84,
+    "case": "2006 World Cup: Wayne Rooney stamps on Ricardo Carvalho's groin.",
+    "decision": "Red card issued.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 85,
+    "case": "2006 World Cup: Josip Simunic is shown three yellow cards before being sent off (clerical error).",
+    "decision": "Sent off after 3 yellows.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 86,
+    "case": "2014 World Cup: Alex Song punches Mario Mandzukic in the back off-the-ball.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 87,
+    "case": "2024 Euro: Ryan Porteous makes a 'leg-breaking' tackle on Gundogan in the box.",
+    "decision": "Penalty and red card.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 88,
+    "case": "2008 UCL Final: Didier Drogba slaps Nemanja Vidic during a confrontation.",
+    "decision": "Red card issued.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 89,
+    "case": "2010 UCL: Thiago Motta catches Sergio Busquets in the face; Busquets exaggerates the contact.",
+    "decision": "Red card issued.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 90,
+    "case": "2006 UCL Final: Jens Lehmann trips Eto'o outside the box to stop a clear goalscoring opportunity.",
+    "decision": "Red card issued (DOGSO).",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 91,
+    "case": "1983 La Liga: Goikoetxea 'the Butcher' snaps Maradona's ankle with a horrific tackle.",
+    "decision": "Yellow card (Later banned for 18 games).",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 92,
+    "case": "2011 A-League: Kevin Muscat performs an extremely dangerous leg-breaking tackle on Adrian Zahra.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 93,
+    "case": "2009 Belgian Pro League: Axel Witsel stamps on Wasilewski's ankle, causing a double fracture.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 94,
+    "case": "2010 Eredivisie: Luis Suarez bites Otman Bakkal on the shoulder.",
+    "decision": "Play on (Later banned for 7 games).",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 95,
+    "case": "2015 Premier League: Diego Costa provokes Gabriel, leading the referee to send off the wrong player (Gabriel).",
+    "decision": "Gabriel sent off.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 96,
+    "case": "1999 Premier League: Paolo Di Canio catches the ball to stop play when the opposing keeper is injured.",
+    "decision": "Play stopped (Fair play).",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 97,
+    "case": "2013 Premier League: Sergio Aguero stamps with both feet on David Luiz's backside.",
+    "decision": "Play on.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 98,
+    "case": "2022 Premier League: Darwin Nunez headbutts Joachim Andersen after being provoked.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 99,
+    "case": "2011 Argentine League: Referee shows 36 red cards in a single match following a mass brawl.",
+    "decision": "36 red cards issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 100,
+    "case": "1967 Intercontinental Cup: Six players are sent off as the match descends into chaos.",
+    "decision": "Multiple red cards.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 101,
+    "case": "1969 Intercontinental Cup: AC Milan players are physically assaulted by Estudiantes players on the pitch.",
+    "decision": "Extreme violence (Few cards).",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 102,
+    "case": "2004 Euro: Francesco Totti spits in the face of Christian Poulsen.",
+    "decision": "Post-match suspension.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 103,
+    "case": "2010 UCL: Franck Ribery stamps on Lisandro Lopez's ankle.",
+    "decision": "Red card issued.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 104,
+    "case": "2015 UCL: Ibrahimovic is sent off for a 50/50 challenge on Oscar deemed to be a stamp.",
+    "decision": "Red card issued.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 105,
+    "case": "1998 World Cup: Slaven Bilic fakes an injury to get Laurent Blanc sent off.",
+    "decision": "Blanc sent off.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 106,
+    "case": "1966 World Cup: Antonio Rattin is sent off for dissent but refuses to leave the field.",
+    "decision": "Red card issued.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 107,
+    "case": "2002 World Cup: Thierry Henry sent off for a reckless studs-up slide tackle.",
+    "decision": "Red card issued.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 108,
+    "case": "2013 Premier League: McManaman performs a knee-high horror tackle on Haidara; missed by referee.",
+    "decision": "Play on.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 109,
+    "case": "2012 Premier League: Vincent Kompany sent off for a two-footed tackle on Nani, despite winning the ball.",
+    "decision": "Red card issued.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 110,
+    "case": "2021 Euro: Remo Freuler sent off for a slide tackle deemed to be excessively dangerous follow-through.",
+    "decision": "Red card issued.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 111,
+    "case": "2023 Premier League: Casemiro sent off for putting his hands around Will Hughes' throat.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 112,
+    "case": "2017 Europa League: Patrice Evra kicks a fan during the warm-up after being insulted.",
+    "decision": "Red card issued before kick-off.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 113,
+    "case": "2001 Scottish PL: Andy Bowman hits the goalpost and insults officials multiple times.",
+    "decision": "Accumulated 5 red card records.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 114,
+    "case": "1982 World Cup: Claudio Gentile performs constant, aggressive tactical fouling on Maradona.",
+    "decision": "Yellow card issued.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 115,
+    "case": "2004 UCL: Francesco Totti punches Ramelow in the back of the head off-the-ball.",
+    "decision": "No card (Later banned).",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 116,
+    "case": "2014 Premier League: Alan Pardew headbutts a Meyler during a touchline dispute.",
+    "decision": "Sent to stands.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 117,
+    "case": "2006 World Cup: Boulahrouz stamps on C罗's thigh, causing serious injury early in the match.",
+    "decision": "Yellow card issued.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 118,
+    "case": "2006 World Cup: Nuno Valente performs a 'karate-style' kick on Robben; ignored by referee.",
+    "decision": "Play on.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 119,
+    "case": "2011 UCL: Van Persie sent off for shooting 0.1 seconds after the whistle (Delaying restart).",
+    "decision": "Second yellow and red card.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 120,
+    "case": "2008 Euro: Schweinsteiger sent off for pushing Jerko Leko in response to a provocation.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 121,
+    "case": "2010 World Cup: Yoann Gourcuff intentionally elbows a South African player during an aerial duel.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 122,
+    "case": "2014 World Cup: Claudio Marchisio stamps on Arevalo Rios' shin.",
+    "decision": "Red card issued.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 123,
+    "case": "2021 Premier League: Paul Pogba stamps on Naby Keita's shin with a two-footed lunge.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 124,
+    "case": "2022 World Cup: Denzel Dumfries sent off after the penalty shootout for repeated provocations.",
+    "decision": "Second yellow card issued.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 125,
+    "case": "2010 World Cup: Lampard's shot crosses line by half a meter; ignored by officials.",
+    "decision": "Goal not awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 126,
+    "case": "2024 Euro: Marc Cucurella blocks Musiala's shot with his hand in the box; deemed natural position.",
+    "decision": "No penalty awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 127,
+    "case": "2014 World Cup: Arjen Robben wins a late penalty after going down easily under Marquez's challenge.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 128,
+    "case": "2019 UCL Final: Mane's cross hits Sissoko's outstretched arm in the first minute.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 129,
+    "case": "2021 Europa Final: Keeper Geronimo Rulli scores his penalty and saves De Gea's to win the cup.",
+    "decision": "Goal awarded.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 130,
+    "case": "2022 World Cup: Lautaro Martinez is caught offside by a millimeter via SAOT technology.",
+    "decision": "Goal disallowed.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 131,
+    "case": "2002 World Cup: Morientes' goal is disallowed because the linesman incorrectly ruled the ball out of play.",
+    "decision": "Goal disallowed.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 132,
+    "case": "2012 Euro: Ukraine's shot crosses the line before being cleared by Terry; missed by goal-line official.",
+    "decision": "Goal not awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 133,
+    "case": "2021 Nations League: Mbappe scores from an offside position; goal stands because Garcia 'played' the ball.",
+    "decision": "Goal awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 134,
+    "case": "1966 World Cup: Geoff Hurst's 'ghost goal' hits the bar and bounces on/near the line.",
+    "decision": "Goal awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 135,
+    "case": "2010 World Cup: Carlos Tevez scores from a clear offside position against Mexico.",
+    "decision": "Goal awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 136,
+    "case": "2005 UCL: Luis Garcia's 'ghost goal' vs Chelsea is ruled over the line despite no clear evidence.",
+    "decision": "Goal awarded.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 137,
+    "case": "2023 Premier League: Luis Diaz's goal disallowed for offside due to VAR communication failure.",
+    "decision": "Goal disallowed.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 138,
+    "case": "2018 World Cup: Cedric's hand is hit by the ball from close range; VAR awards a penalty.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 139,
+    "case": "2024 Premier League: De Ligt and Ings have slight knee contact; VAR awards a controversial late penalty.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 140,
+    "case": "2006 World Cup: Grosso goes down in the box in the final minute against Australia.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 141,
+    "case": "2002 World Cup: Rivaldo fakes a facial injury after being hit in the leg by the ball.",
+    "decision": "Opponent sent off.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 142,
+    "case": "2013 Bundesliga: Stefan Kiessling's header enters through a hole in the side-netting.",
+    "decision": "Goal awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 143,
+    "case": "2021 AFCON: Referee Janny Sikazwe whistles for full-time twice before the 90th minute.",
+    "decision": "Match ended early.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 144,
+    "case": "2017 Confederations Cup: First ever VAR intervention for a major tournament off-the-ball elbow.",
+    "decision": "Yellow card awarded.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 145,
+    "case": "2022 World Cup: Messi wins a penalty after Szczesny's glove grazes his face in the air.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 146,
+    "case": "2000 Euro: Zambrotta sent off for two standard tactical fouls against Holland.",
+    "decision": "Red card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 147,
+    "case": "2014 Premier League: Steven Gerrard slips, allowing Demba Ba a clear run on goal.",
+    "decision": "Goal awarded.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 148,
+    "case": "1990 World Cup: Paul Gascoigne receives a yellow card for a trip, missing the final.",
+    "decision": "Yellow card issued.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 149,
+    "case": "2002 World Cup: Torsten Frings handles the ball on the goal line to stop a USA goal.",
+    "decision": "No penalty awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 150,
+    "case": "2012 Premier League: Aguero's title-winning goal is scored from a marginal onside position.",
+    "decision": "Goal awarded.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 151,
+    "case": "2019 Asian CL: Keeper moves off line early during a penalty; VAR orders a retake.",
+    "decision": "Penalty retaken.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 152,
+    "case": "2016 Euro: Bastian Schweinsteiger handles the ball with his arm high in the air during a jump.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 153,
+    "case": "2009 UCL: Nicolas Anelka goes down under slight contact; penalty claims ignored by Ovrebo.",
+    "decision": "No penalty awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 154,
+    "case": "2024 La Liga: Vinicius Jr scores with his shoulder/arm; VAR rules it a legal shoulder goal.",
+    "decision": "Goal awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 155,
+    "case": "2018 World Cup: Kim Young-gwon's goal vs Germany confirmed by VAR as the ball was played by Kroos.",
+    "decision": "Goal awarded.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 156,
+    "case": "2004 Euro: Sol Campbell's header disallowed for John Terry's alleged foul on the keeper.",
+    "decision": "Goal disallowed.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 157,
+    "case": "2020 Premier League: A penalty is awarded for handball after the full-time whistle via VAR review.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 158,
+    "case": "2011 UCL: Robin van Persie sent off for kicking the ball 0.1 seconds after the whistle.",
+    "decision": "Red card issued.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 159,
+    "case": "2022 World Cup: Croatia loses a penalty due to a 'micro-offside' in the build-up.",
+    "decision": "Penalty cancelled.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 160,
+    "case": "2010 World Cup: Diego Forlan scores a standard long-range goal with the Jabulani ball.",
+    "decision": "Goal awarded.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 161,
+    "case": "2006 Bundesliga: A player is yellow-carded for climbing the perimeter fence to celebrate.",
+    "decision": "Yellow card issued.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 162,
+    "case": "2015 Serie A: Leonardo Bonucci is in an offside position but doesn't touch the ball for the goal.",
+    "decision": "Goal awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 163,
+    "case": "2024 UCL: Gabriel picks up the ball with his hand after a goal kick thinking play hadn't restarted.",
+    "decision": "No penalty awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 164,
+    "case": "1998 World Cup: Raul scores a classic volley from a long pass; no rule infringements.",
+    "decision": "Goal awarded.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 165,
+    "case": "2012 Premier League: Fernando Torres is sent off for a second yellow after being deemed to have dived.",
+    "decision": "Red card issued.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 166,
+    "case": "2017 Confederations Cup: Portugal has a goal disallowed by VAR for a marginal offside in the build-up phase.",
+    "decision": "Goal disallowed.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 167,
+    "case": "2004 CSL: Beijing Guoan players walk off the pitch to protest a penalty decision.",
+    "decision": "Forfeit loss (3-0).",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 168,
+    "case": "2014 World Cup: Fred wins a soft penalty after minimal contact from Lovren.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 169,
+    "case": "2021 Premier League: Laporte handles the ball with his arm in an unnatural position in the box.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 170,
+    "case": "2010 World Cup Final: Iniesta scores the winner from a marginal onside position.",
+    "decision": "Goal awarded.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 171,
+    "case": "2022 World Cup: Japan's ball is ruled in-play by millimeters before the assist against Spain.",
+    "decision": "Goal awarded.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 172,
+    "case": "1982 World Cup: Kuwaiti players stop playing due to a whistle from the crowd; Prince enters the pitch to protest.",
+    "decision": "Goal disallowed after protest.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 173,
+    "case": "2006 UCL Final: Referee blows for a foul on Eto'o, canceling out a follow-up goal by Giuly.",
+    "decision": "Red card for keeper; Goal cancelled.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 174,
+    "case": "2016 FIFA CWC: First VAR penalty awarded in FIFA history for Kashima Antlers.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 175,
+    "case": "2002 World Cup: Inzaghi's goal disallowed for a marginal push on a defender.",
+    "decision": "Goal disallowed.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 176,
+    "case": "2024 Euro: Harry Kane wins a penalty after his foot is caught by a defender following a shot.",
+    "decision": "Penalty awarded via VAR.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 177,
+    "case": "2012 UCL Final: Drogba clips Ribery from behind in the box.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 178,
+    "case": "2010 World Cup: Luis Fabiano scores after twice handling the ball during his run.",
+    "decision": "Goal awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 179,
+    "case": "2021 La Liga: Referee calls players back from the locker room to take a penalty after VAR review.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Somewhat controversial"
+  },
+  {
+    "id": 180,
+    "case": "2018 World Cup: Mitrovic is wrestled to the ground by two Swiss defenders; no VAR review.",
+    "decision": "Play on.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 181,
+    "case": "2004 Premier League: Wayne Rooney wins a penalty after minimal contact from Sol Campbell.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 182,
+    "case": "2024 La Liga: Lamine Yamal's shot appears to cross the line but is ruled no-goal due to lack of goal-line technology.",
+    "decision": "No goal awarded.",
+    "controversiality": "Highly controversial"
+  },
+  {
+    "id": 183,
+    "case": "2010 World Cup: Kuzmanovic makes an unnecessary handball in the box.",
+    "decision": "Penalty awarded.",
+    "controversiality": "Non-controversial"
+  },
+  {
+    "id": 184,
+    "case": "2006 World Cup: Fabio Grosso scores a classic last-minute goal from an onside position.",
+    "decision": "Goal awarded.",
+    "controversiality": "Non-controversial"
+  }
+]
