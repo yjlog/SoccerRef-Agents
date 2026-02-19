@@ -21,7 +21,7 @@
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/yjlog/SoccerRef-Agents.git](https://github.com/yjlog/SoccerRef-Agents.git)
+git clone [[https://github.com/yjlog/SoccerRef-Agents.git](https://github.com/yjlog/SoccerRef-Agents.git)](https://github.com/yjlog/SoccerRef-Agents.git)
 
 ```
 
@@ -73,3 +73,4 @@ We would like to express our gratitude to the following resources and communitie
 If you have any questions regarding the code, dataset, or the paper, please feel free to open an issue on this repository or contact the author directly:
 
 **Zi Meng** (University of Michigan): [mengzi@umich.edu](mailto:mengzi@umich.edu)
+
