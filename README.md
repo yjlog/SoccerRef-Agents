@@ -1,7 +1,7 @@
 # SoccerRef-Agents: Multi-Agent System for Automated Soccer Refereeing
 
 
-**SoccerRef-Agents** is a holistic and explainable multi-agent decision-making framework for automated soccer refereeing. [cite_start]Unlike traditional black-box models, our system decomposes the officiating task into perception, retrieval, legal interpretation, and final adjudication, mimicking the collaborative workflow of a professional refereeing team.
+**SoccerRef-Agents** is a holistic and explainable multi-agent decision-making framework for automated soccer refereeing. Unlike traditional black-box models, our system decomposes the officiating task into perception, retrieval, legal interpretation, and final adjudication, mimicking the collaborative workflow of a professional refereeing team.
 
 
 ## Key Features
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 3. **Prepare Data:**
 * The textual data and knowledge base are included in `Database/`.
-* **For Video Data:** Due to copyright and size constraints, we provide the metadata in `Database/Video/video_600.json`. You must download the raw clips from [SoccerNet-MVFoul](https://www.google.com/search?q=https://github.com/SoccerNet/sn-foul) and organize them locally.
+* **For Video Data:** Due to copyright and size constraints, we provide the metadata in `Database/Video/video_600.json`. You must download the raw clips from [SoccerNet-MVFoul](https://github.com/SoccerNet/sn-mvfoul) and organize them locally.
 
 ## Citation
 
@@ -53,7 +53,7 @@ If you find this code or dataset useful for your research, please cite our paper
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/yjlog/SoccerRef-Agents/blob/main/LICENSE) file for details.
 
 ## Authors
 
@@ -73,5 +73,6 @@ We would like to express our gratitude to the following resources and communitie
 If you have any questions regarding the code, dataset, or the paper, please feel free to open an issue on this repository or contact the author directly:
 
 **Zi Meng** (University of Michigan): [mengzi@umich.edu](mailto:mengzi@umich.edu)
+
 
 
