@@ -1,0 +1,72 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "soccerref-agents"
+version = "1.0.0"
+description = "Multi-Agent System for Automated Soccer Refereeing"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+authors = [
+    {name = "Zi Meng", email = "mengzi@umich.edu"},
+    {name = "Wanli Song"},
+    {name = "Yi Hu"},
+    {name = "Jiayuan Rao"},
+    {name = "Gang Chen"},
+]
+keywords = ["soccer", "referee", "multi-agent", "LLM", "RAG"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+dependencies = [
+    "openai>=1.0.0",
+    "anthropic>=0.18.0",
+    "google-genai>=0.2.0",
+    "chromadb>=0.4.0",
+    "pypdf>=3.0.0",
+    "pandas>=1.3.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.optional-dependencies]
+video = [
+    "opencv-python>=4.8.0",
+    "SoccerNet>=0.1.0",
+]
+visualization = [
+    "matplotlib>=3.4.0",
+    "seaborn>=0.11.0",
+]
+dev = [
+    "ruff>=0.4.0",
+    "pytest>=7.0.0",
+    "ipykernel>=6.0.0",
+]
+all = [
+    "soccerref-agents[video,visualization,dev]",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
+
+[tool.ruff]
+target-version = "py39"
+line-length = 120
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["src"]
